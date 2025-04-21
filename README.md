@@ -14,6 +14,7 @@ I am a Student.
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
 <img src="https://img.shields.io/badge/FL%20Studio-F28C28?style=for-the-badge&logo=fl-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white">
+<img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white">
 
 
 # 📊 GitHub Stats
