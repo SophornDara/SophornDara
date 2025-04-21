@@ -14,9 +14,8 @@ I am a Student.<br>
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i.pinimg.com/originals/d8/c9/1a/d8c91a38ba7965bcc7ad62335ae279a7.gif" alt="Animated GIF">
+    <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" alt="Animated GIF">
   </div>
-  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SophornDara&icon=0&color=0)](https://visitcount.itsvg.in)
