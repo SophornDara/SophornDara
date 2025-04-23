@@ -3,7 +3,7 @@
 # IAM_SOPHORNDARAX 
 
 💫 **About Me**  
-I am a Student.  
+junior dev
 
 ---
 
