@@ -22,7 +22,10 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=SophornDara&theme=shadow_green&hide_border=false" /><br/>
 
 ---
- <img src="https://64.media.tumblr.com/8eb4531d38dfcd9b8e20ce9c5b09a4e4/cceaacff27e5e5fe-b9/s540x810/0a6ec39324960332df3a6e663f20e653e14b8695.gif" width="300px" alt="Animated GIF"/>
+
+<img src="https://64.media.tumblr.com/acdbe762fe5af1baab1d78339a011154/cceaacff27e5e5fe-43/s540x810/09b7c52b9bc8fd51a7e68c98b5fd1febc7b8eda5.gif" width="1000"/>
+
+
 
 ---
 
