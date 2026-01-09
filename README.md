@@ -2,7 +2,7 @@
 
 # IAM_SOPHORNDARAX 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sophorn+Dara;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+⭐+I'm+Sophorndarax;I+am+interested+in+web+development;" alt="Typing SVG" />
 </div>
 
  **About Me**  
