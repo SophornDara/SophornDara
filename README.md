@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+⭐+I'm+Sophorndarax;I+am+interested+in+web+development;" alt="Typing SVG" />
 </div>
 
- **About Me**  
 ---
 #  Tech Stack
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +29,6 @@
 # 📊 GitHub Stats
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=SophornDara&theme=shadow_green&hide_border=false" /><br/>
-
 ---
 
 <img src="https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif" width="1000"/>
