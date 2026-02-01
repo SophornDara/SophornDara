@@ -31,7 +31,7 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=SophornDara&theme=shadow_green&hide_border=false" /><br/>
 ---
 
-<img src="https://giffiles.alphacoders.com/211/211786.gif" width="1000"/>
+<img src="https://images.steamusercontent.com/ugc/2023838136890088979/598338245F4E7EDA12EC3BD1F8394DD0704A4D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000"/>
 
 
 ---
