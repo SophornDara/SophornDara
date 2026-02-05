@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 # IAM_SOPHORNDARAX 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+⭐+I'm+Sophorndarax;I+am+interested+in+web+development;" alt="Typing SVG" />
@@ -32,6 +34,8 @@
 ---
 
 <img src="https://images.steamusercontent.com/ugc/2023838136890088979/598338245F4E7EDA12EC3BD1F8394DD0704A4D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000"/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpvbDkydTNzd2RpcnVsMWFiMXIxYWdlODdseHUwOTBrc21qcWRsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5nQLULe1SlQkXrVjr/giphy.gif" width="1000"/>
 
 
 ---
