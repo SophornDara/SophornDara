@@ -35,9 +35,6 @@
 
 <img src="https://images.steamusercontent.com/ugc/2023838136890088979/598338245F4E7EDA12EC3BD1F8394DD0704A4D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000"/>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpvbDkydTNzd2RpcnVsMWFiMXIxYWdlODdseHUwOTBrc21qcWRsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5nQLULe1SlQkXrVjr/giphy.gif" width="1000"/>
-
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SophornDara&icon=0&color=0)](https://visitcount.itsvg.in)  
