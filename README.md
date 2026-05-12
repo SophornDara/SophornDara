@@ -27,13 +27,6 @@
 <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
-
-
-# 📊 GitHub Stats
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=SophornDara&theme=shadow_green&hide_border=false" /><br/>
----
-
 <img src="https://images.steamusercontent.com/ugc/2023838136890088979/598338245F4E7EDA12EC3BD1F8394DD0704A4D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000"/>
 
 ---
