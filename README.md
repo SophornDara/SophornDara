@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=5B9BD5&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sophorndarax;Web+Developer+%7C+Creative+Coder;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=5B9BD5&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sophorndarax;Web+Developer+%7C+Creative+Coder;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
@@ -70,9 +70,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SophornDara&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFF8E7&title_color=5B9BD5&icon_color=5B9BD5&text_color=5C4B3B" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SophornDara&hide_border=true&background=FFF8E7&ring=5B9BD5&fire=C9EDFD&currStreakLabel=5B9BD5&sideLabels=5C4B3B&currStreakNum=5C4B3B&sideNums=5C4B3B&dates=5C4B3B" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophornDara&layout=compact&theme=graywhite&hide_border=true&bg_color=FFF8E7&title_color=5B9BD5&text_color=5C4B3B" height="165"/>
 
