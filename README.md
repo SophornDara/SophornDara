@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFF8E7,100:C9EDFD&height=2&width=1000" width="100%"/>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophornDara&layout=compact&theme=graywhite&hide_border=true&bg_color=FFF8E7&title_color=5B9BD5&text_color=5C4B3B" height="165"/>
 
